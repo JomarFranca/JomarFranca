@@ -6,7 +6,7 @@
 
 <p align="left">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=jomarfranca&show_icons=true&theme=highcontrast" alt="jomarfranca stats"/>
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomarfranca&layout=compact&theme=highcontrast" alt="jomarfranca stats"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomarfranca&langs_count=10&layout=compact&theme=highcontrast" alt="jomarfranca stats"/>
 </p>
 
 ## 👨🏿‍💻 &nbsp;Apresentação 👨🏿‍💻
